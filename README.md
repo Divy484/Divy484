@@ -116,17 +116,27 @@ A practical collection of database optimization examples covering:
 
 ## 💼 Professional Experience
 
-My professional development work includes backend systems, APIs, database-driven applications, integrations, background processing, notifications and production workflows.
+I work on backend systems and production workflows involving
+Node.js, TypeScript, REST APIs, SQL databases, AWS services,
+background processing, integrations, notifications, and automation.
 
-Some professional implementations are kept private due to confidentiality.
+My GitHub activity reflects ongoing development across multiple
+repositories, including collaborative work and pull-request based
+development.
+
+Some professional repositories remain private due to
+confidentiality and organizational requirements.
 
 ---
 
 ## 📊 GitHub Activity
 
-My GitHub profile includes both public projects and private professional contributions.
+Actively contributing across public and private repositories,
+including collaborative development, pull requests, backend
+services, integrations, and production-oriented workflows.
 
-Some professional work is maintained in private repositories due to confidentiality and organizational requirements.
+Some professional repositories are private due to
+confidentiality and organizational requirements.
 
 ---
 
