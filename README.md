@@ -124,9 +124,9 @@ Some professional implementations are kept private due to confidentiality.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divy484\&show_icons=true\&hide_border=true\&count_private=true)
+My GitHub profile includes both public projects and private professional contributions.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divy484\&layout=compact\&hide_border=true)
+Some professional work is maintained in private repositories due to confidentiality and organizational requirements.
 
 ---
 
